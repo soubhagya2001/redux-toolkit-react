@@ -11,7 +11,6 @@ This is a simple Todo application built using React, Vite, Redux Toolkit, and Re
 
 ## Technologies Used
 
-- React v18.2.0
 - React DOM v18.2.0
 - React Redux v9.1.0
 - Redux Toolkit v2.2.3
@@ -37,4 +36,4 @@ This is a simple Todo application built using React, Vite, Redux Toolkit, and Re
     npm run dev
 
 ## Screenshot :
-    ![Image Alt Text](relative/path/to/your/image.png)
+    ![Screenshot](Screenshot.png)
