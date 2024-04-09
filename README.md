@@ -36,4 +36,4 @@ This is a simple Todo application built using React, Vite, Redux Toolkit, and Re
     npm run dev
 
 ## Screenshot :
-    ![Screenshot](public/Screenshot.png)
+![Screenshot](public/Screenshot.png)
